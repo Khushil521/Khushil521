@@ -14,10 +14,13 @@ This repository contains code for developing a hand gesture recognition model th
 - classifier
 - keras
 
-You can install the necessary packages using pip:
+# You can train ur modal using.. this link:-
+:https://teachablemachine.withgoogle.com/
 
+# You can install the necessary packages using pip:
 ```sh
 pip install opencv-python mediapipe numpy tensorflow cvzone pandas
+
 <!---
 Khushil521/Khushil521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
