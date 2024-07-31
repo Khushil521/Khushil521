@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-folder = "/Add directiory path for required data collection"
+folder = "/Add directiory path for required data collection/"
 while True:
     success, img = cap.read()
     hands, img = detector.findHands(img)
