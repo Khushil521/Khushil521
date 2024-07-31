@@ -10,7 +10,7 @@ import tensorflow as tf
 
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
-classifier = Classifier("/add directiory path for-/keras_model.h5","/add directiory path for-/labels.txt")
+classifier = Classifier("/add a directiory path for-/keras_model.h5","/add a directiory path for-/labels.txt")
 offset = 20
 imgSize = 300
 counter = 0
