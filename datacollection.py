@@ -10,7 +10,7 @@ offset = 20
 imgSize = 300
 counter = 0
 
-folder = "/Users/KHUSHI/Downloads/Sign-Language-detection-main/Sign-Language-detection-main/Data/Okay"
+folder = "/Add directiory path for required data collection"
 while True:
     success, img = cap.read()
     hands, img = detector.findHands(img)
